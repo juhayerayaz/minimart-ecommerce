@@ -3,7 +3,7 @@ import React from 'react';
 const Home = () => {
     return (
         <div>
-            <h1>Hello home</h1>
+            <h1>Hello from aiaz branch</h1>
         </div>
     );
 };
