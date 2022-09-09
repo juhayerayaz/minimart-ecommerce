@@ -1,14 +1,13 @@
-import { Routes, Route } from "react-router-dom";
-import './App.css';
-import Home from "./Pages/Home/Home";
+import BestSellers from "./components/BestSellers";
+import Footer from "./components/Footer";
+// import Header from "./components/Header";
 
 function App() {
   return (
-    <>
-      <Routes>
-        <Route path="/" element={<Home></Home>}></Route>
-      </Routes>
-    </>
+    <div className="text-3xl">
+      <BestSellers></BestSellers>
+      <Footer></Footer>
+    </div>
   );
 }
 

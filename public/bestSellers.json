@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Basic dress green",
+        "category": "Dress",
+        "price": 236,
+        "pic": "./images/p5.png",
+        "type": "HOT"
+    },
+    {
+        "id":  2,
+        "name":"Nike Sportsware Futura Luxe",
+        "category": "Bag",
+        "price": 130,
+        "pic": "./images/p2.png",
+        "type": ""
+    },
+    {
+        "id":  3,
+        "name":"Yellow Reserved Hoddie",
+        "category": "Dress",
+        "prev-price": 364,
+        "price": 154,
+        "pic": "./images/p4.png",
+        "type": "SALE"
+    },
+    {
+        "id":  4,
+        "name":"Nike Air Zoom Pegasus",
+        "category": "Shoe",
+        "prev-price": 230,
+        "price": 198,
+        "pic": "./images/p6.png",
+        "type": "SALE"
+    }
+
+]
